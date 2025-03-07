@@ -1,4 +1,4 @@
-# API Integration
+# API Integration - Salesforce
 
 public with sharing class ExternalLeadIntegration{
     private static final String API_URL ='https://retoolapi.dev/uxt6NO/ExternalLead';
